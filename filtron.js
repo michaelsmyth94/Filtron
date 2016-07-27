@@ -166,7 +166,7 @@
     /**
      * Bind a click event to the default filter
      * trigger class. This will trigger the
-     * filter via clicking on a seelctor.
+     * filter via clicking on a selector.
      */
     $(_).on('click', defaults.filterTriggerClass, function(event) {
       /**
